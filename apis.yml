@@ -39,7 +39,6 @@ apis:
   - name: Mozilla tls scanner
     description: "Mozilla observatory tls scanner"
     humanURL: https://github.com/mozilla/tls-observatory#api-endpoints
-    baseURL: https://github.com/mozilla/tls-observatory#api-endpoints
     tags:
       - Security
     properties:
